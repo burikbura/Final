@@ -49,3 +49,12 @@ void createSecondArr(string[] myArray)
   Console.WriteLine(" \n ============== ");
 
 }
+
+// вызов ф-ции по первичному созданию массива
+string[] firstArray = addArray();
+
+// вывод на экран введенного юзером Массива 
+printBaseArray(firstArray);
+
+// вызов ф-ции для выполнения условий задачи. Печать идет из ф-ции
+createSecondArr(firstArray);
