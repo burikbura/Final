@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\bin\Debug\net6.0\TestFinal.exe
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\bin\Debug\net6.0\TestFinal.deps.json
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\bin\Debug\net6.0\TestFinal.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\bin\Debug\net6.0\TestFinal.dll
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\bin\Debug\net6.0\TestFinal.pdb
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\obj\Debug\net6.0\TestFinal.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\obj\Debug\net6.0\TestFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\obj\Debug\net6.0\TestFinal.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\obj\Debug\net6.0\TestFinal.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\obj\Debug\net6.0\TestFinal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\obj\Debug\net6.0\TestFinal.dll
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\obj\Debug\net6.0\refint\TestFinal.dll
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\obj\Debug\net6.0\TestFinal.pdb
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\obj\Debug\net6.0\TestFinal.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Gk\c#\HomeWork\FinalTest\TestFinal\obj\Debug\net6.0\ref\TestFinal.dll
