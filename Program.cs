@@ -27,4 +27,25 @@ void printBaseArray(string[] myArray)
   Console.WriteLine(" \n ============== ");
 }
 
+//3. Ф-ция формирования массива из строк, длина которых <=3
+void createSecondArr(string[] myArray)
+{
+  string[] addNewArray = new string[myArray.Length];
 
+  Console.Write($"Массив, в котором длинна строк не более 3 символов:\n");
+
+  Console.Write($"[");
+  for (int i = 0; i < myArray.Length; i++)
+  {
+
+    if (myArray[i].Length <= 3)
+    {
+      addNewArray[i] = myArray[i];
+      Console.Write($" {addNewArray[i],1} ");
+    }
+  }
+  Console.Write($"] \n");
+
+  Console.WriteLine(" \n ============== ");
+
+}
